@@ -17,7 +17,6 @@ source:
 build:
   noarch: generic
   number: 1000
-  skip: true  # [win32]
   rpaths:
     - lib/R/lib/
     - lib/
