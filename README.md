@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-grplasso-feed
 
 Home: https://CRAN.R-project.org/package=grplasso
 
-Package license: GPL-2 and GPL-3
+Package license: GPL-2.0-or-later
 
 Summary: Fits user specified (GLM-) models with Group Lasso penalty
 
